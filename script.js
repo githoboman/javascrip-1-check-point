@@ -1,4 +1,7 @@
-//NUMBER ONE
+// dom lesson
+
+
+/*****NUMBER ONE
 
 function bitwiseAND(n1, n2) {
     return n1 & n2;
@@ -58,6 +61,5 @@ function redundant(str) {
     return function() {
         return str;
     }
-}
-
+}*****/
 
